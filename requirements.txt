@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.10
+seaborn>=0.13
+scikit-learn>=1.8
+xgboost>=3.2
+torch>=2.10
+statsmodels>=0.14
+pmdarima>=2.1
+httpx>=0.28
+pyarrow>=15.0
+jupyter>=1.0
