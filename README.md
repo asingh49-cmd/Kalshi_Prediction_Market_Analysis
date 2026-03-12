@@ -1,4 +1,4 @@
-# Kalshi_Prediction_Market_Analysis
+# Kalshi Prediction Market Analysis
 # Prediction Market Price Forecasting - Kalshi Binary Options
 
 > Forecasting short-term price movements on Kalshi prediction markets using time series analysis and machine learning, across macroeconomic and sports contracts.
